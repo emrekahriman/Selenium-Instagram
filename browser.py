@@ -3,8 +3,8 @@ from selenium import webdriver
 from time import sleep
 
 
-user = 'testyek000'
-pw = 'testyek0'
+user = input('Kullanıcı Adı: ')
+pw = input('Şifre: ')
 
 
 
